@@ -1,2 +1,2 @@
 # notekeeper
-Notkeeper webpage made with the help of basic HTML, CSS and mysql, php
+Notkeeper webpage made with the help of basic HTML, CSS, JS and mysql, php
